@@ -1,0 +1,25 @@
+{
+  "name": "js-tinyutils",
+  "version": "0.0.1",
+  "description": "A bunch of javascript functions which helps to speed up daily programming challenges",
+  "main": "tinyUtils.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atakane/js-tinyUtils.git"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "helper"
+  ],
+  "author": "Atakan Eser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atakane/js-tinyUtils/issues"
+  },
+  "homepage": "https://github.com/atakane/js-tinyUtils#readme"
+}
